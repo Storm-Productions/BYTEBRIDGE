@@ -1,3 +1,9 @@
 {
-  Rule: "Yes"
+  "rules": [
+    "Lorem Ipsum text should be used as a placeholder for content in design mockups and layouts.",
+    "Lorem Ipsum should not convey any meaningful information to avoid distracting viewers from evaluating the design.",
+    "Lorem Ipsum should maintain a consistent length and structure to accurately represent the content it's replacing.",
+    "Lorem Ipsum should be replaced with actual content before finalizing designs to ensure accurate representation.",
+    "Lorem Ipsum text should be formatted appropriately to match the typography and layout of the design it's used in."
+  ]
 }
